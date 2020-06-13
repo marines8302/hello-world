@@ -1,6 +1,6 @@
 # hello-world
 
-My name is John and I am a Computer Science student at Western Governor University.
+I am a Computer Science student at Western Governor University.
 
 I have always been fascinated by how things work and growing up, I was constantly getting into trouble for breaking things and trying to figure how they work.
 I decided to pursue an Associate degree in Computer and Electronic Technology after serving in the United States Marine Corp.  
